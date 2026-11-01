@@ -16,13 +16,13 @@ window.SITE_CONFIG = {
   supabaseAnonKey: "",   // the "anon public" key
 
   profile: {
-    siteName: "Your Name",          // shown in the nav bar and footer
+    siteName: "Ih5z",          // shown in the nav bar and footer
     logoText: "♪",                  // 1–2 characters used as the logo mark
     welcome: "Welcome to my corner of the internet for songs worth sharing.",
     avatarUrl: "",                  // https link to your profile picture (leave empty for initials)
-    aboutName: "Your Name",
+    aboutName: "it's khan",
     aboutText:
-      "Hi, I'm Your Name. I collect songs the way some people collect postcards: one for every mood, every late night, every strange little memory.\n\nThis is where I share what I'm listening to, and where you can ask me to find something that fits whatever you're feeling.",
+      "Hi, I'm ih5z. I collect songs the way some people collect postcards: one for every mood, every late night, every strange little memory.\n\nThis is where I share what I'm listening to, and where you can ask me to find something that fits whatever you're feeling.",
     genres: ["Indie", "R&B", "Dream Pop", "Lo-fi", "Late-night Jazz"],
     why: "A good song at the right moment can change a whole day. I love being the person who sends it."
   },
@@ -30,11 +30,11 @@ window.SITE_CONFIG = {
   // Leave url and username empty until you have real profiles; empty ones are shown as "not linked yet" (not as clickable links).
   socials: {
     instagram: { username: "", url: "" },
-    tiktok:    { username: "", url: "" },
+    tiktok:    { username: "ruu_i.s", url: "www.tiktok.com/@ruu_i.s" },
     spotify:   { username: "", url: "" },
-    youtube:   { username: "", url: "" },
+    youtube:   { username: "ih5z", url: "https://www.youtube.com/@ih5z" },
     pinterest: { username: "", url: "" },
     x:         { username: "", url: "" },
-    discord:   { username: "", url: "" }   // paste a Discord invite or profile URL
+    discord:   { username: "usingspareaccount", url: "" }   // paste a Discord invite or profile URL
   }
 };
