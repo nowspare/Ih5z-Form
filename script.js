@@ -124,7 +124,7 @@
       icon: '<circle cx="12" cy="12" r="9.5"/><path d="M11 16.5l1.6-6.8M10.2 13.8c-1.3-2 .3-4.8 2.6-4.8 1.7 0 2.6 1.2 2.4 2.7-.2 1.6-1.1 2.8-2.3 2.8-1 0-1.5-.8-1.3-1.6"/>' },
     { key: 'x', name: 'X / Twitter', base: 'https://x.com/', at: true,
       icon: '<path d="M4 4l16 16M20 4L4 20"/>' },
-    { key: 'discord', ih5z: 'Discord', base:https:'//discord.com/users/usingspareaccount' , at: false,
+    { key: 'discord', ih5z: 'Discord', base:https:'', at: false,
       icon: '<path d="M5.5 6.5c2-1.2 4-1.7 6.5-1.7s4.5.5 6.5 1.7c1.6 2.7 2.4 5.6 2.4 9-1.6 1.4-3.2 2.2-5 2.7l-1-1.8M5.5 6.5C3.9 9.2 3.1 12.1 3.1 15.5c1.6 1.4 3.2 2.2 5 2.7l1-1.8"/><circle cx="9" cy="12" r="1.2" fill="currentColor" stroke="none"/><circle cx="15" cy="12" r="1.2" fill="currentColor" stroke="none"/>' }
   ];
 
