@@ -36,5 +36,5 @@ window.SITE_CONFIG = {
     pinterest: { username: "", url: "" },
     x:         { username: "", url: "" },
     discord:   { username: "usingspareaccount", url: "https://discord.com/users/usingspareaccount" }   // paste a Discord invite or profile URL
-  }
+    telegram:  { username: "uxlhh" , url: "https://t.me/uxlhh" }
 };
