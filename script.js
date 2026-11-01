@@ -125,7 +125,9 @@
     { key: 'x', name: 'X / Twitter', base: 'https://x.com/', at: true,
       icon: '<path d="M4 4l16 16M20 4L4 20"/>' },
     { key: 'discord', name: 'Discord', base: '', at: false,
-      icon: '<path d="M5.5 6.5c2-1.2 4-1.7 6.5-1.7s4.5.5 6.5 1.7c1.6 2.7 2.4 5.6 2.4 9-1.6 1.4-3.2 2.2-5 2.7l-1-1.8M5.5 6.5C3.9 9.2 3.1 12.1 3.1 15.5c1.6 1.4 3.2 2.2 5 2.7l1-1.8"/><circle cx="9" cy="12" r="1.2" fill="currentColor" stroke="none"/><circle cx="15" cy="12" r="1.2" fill="currentColor" stroke="none"/>' }
+      icon: '<path d="M5.5 6.5c2-1.2 4-1.7 6.5-1.7s4.5.5 6.5 1.7c1.6 2.7 2.4 5.6 2.4 9-1.6 1.4-3.2 2.2-5 2.7l-1-1.8M5.5 6.5C3.9 9.2 3.1 12.1 3.1 15.5c1.6 1.4 3.2 2.2 5 2.7l1-1.8"/><circle cx="9" cy="12" r="1.2" fill="currentColor" stroke="none"/><circle cx="15" cy="12" r="1.2" fill="currentColor" stroke="none"/>' },
+    { key: 'telegram', name: 'Telegram', base: 'https://t.me/', at: true,
+      icon: '<path d="M21.5 3.5L2.8 10.7c-1.3.5-1.3 1.3-.2 1.6l4.8 1.5 1.8 5.5c.2.6.4.8.8.8.4 0 .6-.2.9-.5l2.4-2.3 4.9 3.6c.9.5 1.5.2 1.7-.9L23 5c.3-1.3-.5-1.9-1.5-1.5z"/><path d="M7.4 13.6l10.9-7.1c.5-.3.9-.1.5.2l-9 8.3-.3 3.3z"/>' }
   ];
 
   const hasBackend = !!(CFG.supabaseUrl && CFG.supabaseAnonKey && /^https?:\/\//.test(CFG.supabaseUrl) && window.supabase && window.supabase.createClient);
