@@ -118,11 +118,11 @@
       icon: '<path d="M14 3v11.5a3.5 3.5 0 1 1-3.5-3.5"/><path d="M14 3c.4 2.6 2 4.2 5 4.5"/>' },
     { key: 'spotify', name: 'Spotify', base: 'https://open.spotify.com/user/', at: false,
       icon: '<circle cx="12" cy="12" r="9.5"/><path d="M7 9.4c3.4-1 7.2-.7 10.2 1"/><path d="M7.6 12.6c2.8-.8 5.8-.5 8.3.9"/><path d="M8.3 15.6c2.2-.6 4.4-.4 6.3.6"/>' },
-    { key: 'youtube', name: 'YouTube', base: 'https://www.youtube.com/@', at: true,
+    { key: 'youtube', name: 'YouTube', base: 'https://www.youtube.com/@ih5z', at: true,
       icon: '<rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor" stroke="none"/>' },
     { key: 'pinterest', name: 'Pinterest', base: 'https://www.pinterest.com/', at: false,
       icon: '<circle cx="12" cy="12" r="9.5"/><path d="M11 16.5l1.6-6.8M10.2 13.8c-1.3-2 .3-4.8 2.6-4.8 1.7 0 2.6 1.2 2.4 2.7-.2 1.6-1.1 2.8-2.3 2.8-1 0-1.5-.8-1.3-1.6"/>' },
-    { key: 'x', name: 'X / Twitter', base: 'https://x.com/', at: true,
+    { key: 'x', name: 'X / Twitter', base: 'https://x.com/ishraq_vx', at: true,
       icon: '<path d="M4 4l16 16M20 4L4 20"/>' },
     { key: 'discord', name: 'Discord', base: '', at: false,
       icon: '<path d="M5.5 6.5c2-1.2 4-1.7 6.5-1.7s4.5.5 6.5 1.7c1.6 2.7 2.4 5.6 2.4 9-1.6 1.4-3.2 2.2-5 2.7l-1-1.8M5.5 6.5C3.9 9.2 3.1 12.1 3.1 15.5c1.6 1.4 3.2 2.2 5 2.7l1-1.8"/><circle cx="9" cy="12" r="1.2" fill="currentColor" stroke="none"/><circle cx="15" cy="12" r="1.2" fill="currentColor" stroke="none"/>' }
